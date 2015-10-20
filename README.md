@@ -31,6 +31,9 @@ assert.ok(typeof gulpEssential.src === 'function', "All the familiar methods lik
 ```
 
 # Javascript
+* [`gulp.babel`](https://www.npmjs.com/package/gulp-babel)
+* [`gulp.sourcemaps`](https://www.npmjs.com/package/gulp-sourcemaps) you may wish to [check out this wiki for compatable sourcemap gulp plugins!](https://github.com/floridoo/gulp-sourcemaps/wiki/Plugins-with-gulp-sourcemaps-support)
+* [`gulp.uglify`](https://www.npmjs.com/package/gulp-uglify)
 
 # File Manipulation
 * [`gulp.rename`](https://www.npmjs.com/package/gulp-rename)
